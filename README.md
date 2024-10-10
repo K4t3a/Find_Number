@@ -1,2 +1,4 @@
 # Find_Number
-node js game
+npm install zeromq
+node server.js
+node client 1 100
